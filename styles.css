@@ -1,4 +1,4 @@
-.body {
+body {
   background-color: #191765;
   background-image: url(./images/Ellipse\ 18@2x.png);
   background-repeat: no-repeat;
@@ -10,7 +10,7 @@
   display: flex;
   justify-content: space-between;
   width: 90%;
-  margin: auto;
+  margin: 0 auto;
   align-items: center;
 }
 
@@ -50,7 +50,7 @@
   line-height: 28px;
 }
 
-.language-skills {
+.prog-lang-skills {
   width: 100vw;
   background-image: url(./images/Ellipse\ 19.png);
   background-repeat: no-repeat;
@@ -59,7 +59,7 @@
   background-position-y: 10px;
 }
 
-.language-skills .programme-lang {
+.prog-lang-skills .prog-lan {
   display: flex;
   width: 75%;
   margin: 0 auto;
@@ -68,18 +68,18 @@
   border-bottom: 1px grey solid;
 }
 
-.language-skills .programme-lang ul {
+.prog-lang-skills .prog-lan ul {
   list-style: none;
 }
 
-.language-skills .programme-lang ul.list-head {
-  color: hsl(240, 37%, 96%);
+.prog-lang-skills .prog-lan ul .list-head {
+  color: #9490ff;
   font-size: 12px;
   font-weight: 500;
 }
 
-.language-skills .programme-lang ul li {
-  color: hsla(240, 100%, 98%, 0.514);
+.prog-lang-skills .prog-lan ul li {
+  color: #f5f5ff;
   font-size: 15px;
   line-height: 35px;
   font-weight: 400;
@@ -108,22 +108,4 @@
   justify-content: center;
   align-items: center;
   color: #a2a3ae;
-}
-
-.work-below-right {
-  position: absolute;
-  width: 0px;
-  height: 21.3px;
-  left: 9.15px;
-  top: 9.35;
-  border: 1px solid #c4c4c4;
-}
-
-.work-below-right {
-  position: absolute;
-  width: 0px;
-  height: 21.3px;
-  left: 68.15px;
-  top: 9.35;
-  border: 1px solid #c4c4c4;
 }
