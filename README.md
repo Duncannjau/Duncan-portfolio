@@ -26,7 +26,7 @@ step 3:type or copy git clone https://github.com/Duncannjau/Duncan-portfolio.git
 
 Set up folder as:
 
-1. /PORTFOLIO-MICROVERSE -.github/workflows - linters.yml
+1. /Duncan-portfolio -.github/workflows - linters.yml
    - images
    - .hintrc
    - .stylelintrc.json
