@@ -1,10 +1,10 @@
-.body {
+body {
   background-color: #191765;
   background-image: url(./images/Ellipse\ 18@2x.png);
   background-repeat: no-repeat;
   background-position-y: 50px;
   background-size: 100px;
-}\n
+}
 
 .nav-bar {
   display: flex;
