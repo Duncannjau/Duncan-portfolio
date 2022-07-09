@@ -115,6 +115,7 @@ body {
   align-items: center;
   color: #a2a3ae;
 }
+
 .recent-works {
   display: grid;
   grid-template-rows: auto;
