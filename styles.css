@@ -202,10 +202,10 @@ body {
 }
 
 .rectangle {
-width: 1px;
-height: 40px;
-background: #555555;
-padding: 0;
+  width: 1px;
+  height: 40px;
+  background: #3d3c3c;
+  padding: 0;
 }
 
 .btn {
