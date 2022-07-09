@@ -1,0 +1,29 @@
+{
+  "name": "duncan-portfolio",
+  "version": "1.1.2022",
+  "description": "Portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "test": "DNGPT2022"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duncannjau/Duncan-portfolio.git"
+  },
+  "keywords": [
+    "PORTFOLIO"
+  ],
+  "author": "Email:njaugitahi@gmail.com Name:Duncan Njau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Duncannjau/Duncan-portfolio/issues"
+  },
+  "homepage": "https://github.com/Duncannjau/Duncan-portfolio#readme",
+  "devDependencies": {
+    "hint": "^7.0.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
