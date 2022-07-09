@@ -6,6 +6,10 @@ body {
   background-size: 100px;
 }
 
+.section {
+  display: flex;
+}
+
 .nav-bar {
   display: flex;
   justify-content: space-between;
