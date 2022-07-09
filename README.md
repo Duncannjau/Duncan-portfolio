@@ -64,4 +64,4 @@ Contributions, issues, and feature requests are welcome!
 Comment if you like this project
 
 ## 📝 License
-MIT license.
+MIT license(https://github.com/Duncannjau/Duncan-portfolio/blob/main/LICENSE)
