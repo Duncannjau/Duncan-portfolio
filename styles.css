@@ -196,11 +196,16 @@ body {
 }
 
 .my-works .my-work-contain ul li {
-  border-left: 1px grey solid;
-  padding-left: 15px;
   font-weight: 500;
   line-height: 20px;
   font-size: 15px;
+}
+
+.rectangle {
+width: 1px;
+height: 40px;
+background: #555555;
+padding: 0;
 }
 
 .btn {
