@@ -209,17 +209,15 @@
     <form action="/index.html" method="post">
       <ul>
         <li>
-          <label for="FirstName">First Name:</label>
-          <input type="text" id="FirstName" name="User_name">
-          <label for="LastName">Last Name:</label>
-          <input type="text" id="LastName" name="User_name">
+          
+          <input type="text" placeholder="First Name" maxlength="30" required>
+          <input type="text" placeholder="Second Name" maxlength="30" required>
         </li>
         <li>
-          <label for="mail">Email:</label>
-          <input type="email" id="mail" name="User_email">
-        </li><li>
-          <label for="msg"> Your Message Here</label>
-           <textarea id="msg" name="User_message"></textarea>
+          <input type="email" placeholder="E-mail" required>
+        </li>
+        <li>
+          <textarea name="text" cols="30" rows="10" placeholder="write your massage here" maxlength="500" required></textarea>
         </li>
         <li class="button2">
           <button type="submit">Send</button>
