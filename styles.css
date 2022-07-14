@@ -239,3 +239,12 @@ h1 {
   color: #9390ff;
   padding-left: 50px;
 }
+
+form ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style-type: none;
+  padding-left: 0px;
+  gap: 25px;
+  }
