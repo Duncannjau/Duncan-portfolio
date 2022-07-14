@@ -225,3 +225,17 @@ body {
 .btn:active {
   background-color: #5e42d7;
 }
+
+.contact {
+  width: 300px;
+  margin: 20px;
+}
+
+p {
+  color: #f5f5ff;
+}
+
+h1 {
+  color: #9390ff;
+  padding-left: 50px;
+}
