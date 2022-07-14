@@ -248,3 +248,8 @@ form ul {
   padding-left: 0px;
   gap: 25px;
   }
+
+  .s-button {
+    display: flex;
+    align-items: center;
+  }
