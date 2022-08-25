@@ -225,3 +225,58 @@ body {
 .btn:active {
   background-color: #5e42d7;
 }
+
+.contact {
+  width: 300px;
+  margin: 20px;
+}
+
+p {
+  color: #f5f5ff;
+}
+
+h1 {
+  color: #9390ff;
+  padding-left: 50px;
+}
+
+form ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style-type: none;
+  padding-left: 0px;
+  gap: 25px;
+  }
+
+  .s-button:hover {
+    color: white;
+    background-color: #5e42d7;
+  }
+
+  .s-button {
+    color: white;
+    background-color: #7d73fC;
+  }
+
+  .social-media2 {
+    width: 300px;
+  }
+
+  .media-icons2 {
+    display: flex;
+    gap: 20px;
+    margin-top: 60px;
+    margin-left: 25px;
+    list-style: none;
+  }
+
+  .footer-email-space {
+    display: flex;
+    align-items: flex-start;
+    margin-left: 65px;
+  }
+
+  .footer-email-space h4 {
+    color: #f5f5ff;
+  }
